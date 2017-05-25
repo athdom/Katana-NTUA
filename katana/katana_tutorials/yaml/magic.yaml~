@@ -1,0 +1,51 @@
+position_x: 0.325484
+position_y: 0.0180549
+position_z: 0.188515
+
+orientation_x: 0.0179766
+orientation_y: 0.00393263
+orientation_z: 0.0359923
+orientation_w: 0.999183
+
+
+position_x: 0.30247
+position_y: -0.026889
+position_z: -0.135187
+
+orientation_x: 0.291959
+orientation_y: 0.649979
+orientation_z: -0.32526
+orientation_w: 0.621685
+
+
+position_x: 0.305389
+position_y: -0.128743
+position_z: -0.137743
+
+orientation_x: 0.348787
+orientation_y: 0.623571
+orientation_z: -0.364603
+orientation_w: 0.597136
+
+#first grasping position
+position_x: 0.356285
+position_y: -0.172049
+position_z: -0.210596
+ 
+orientation_x: 0.185845
+orientation_y: 0.812291
+orientation_z: -0.123277
+orientation_w: 0.538932
+
+#final grasping position
+
+position_x: 0.414566
+position_y: -0.200196
+position_z: -0.168016
+
+orientation_x: 0.159982
+    y: 0.6993
+    z: -0.15537
+    w: 0.67915
+
+

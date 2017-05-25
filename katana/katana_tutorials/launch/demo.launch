@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+  <rosparam file="$(find katana_tutorials)/yaml/demo.yaml" command="load" /> 
+  <node pkg="katana_tutorials" name="demo" type="demo" output = "screen" />
+  <node pkg="katana_tutorials" name="gripper_position" type="gripper_position_pub" output = "screen" />
+</launch>

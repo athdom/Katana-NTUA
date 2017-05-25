@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+  <rosparam file="$(find katana_tutorials)/yaml/follow_joint_trajectory.yaml" command="load" />
+  <node pkg="katana_tutorials" name="follow_joint_trajectory_client" type="follow_joint_trajectory_client" output = "screen" />
+</launch>
